@@ -1,0 +1,18 @@
+.reddit-share-container {
+  margin-top: 10px;
+}
+
+#reddit-subreddit {
+  margin-right: 10px;
+  padding: 5px;
+}
+
+.reddit-share-icon {
+  display: inline-block;
+  cursor: pointer;
+}
+
+.reddit-share-icon img {
+  width: 24px;
+  height: 24px;
+}
